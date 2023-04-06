@@ -2,6 +2,8 @@
 
 (Built under Object-Oriented principle)
 
+Originally worked in a [private repo](https://github.com/addzy94/ooad-project-game). Move to this one for public demonstration.
+
 [Project Intro](https://github.com/addzy94/ooad-project-game/blob/master/Project%207.pdf)
 
 [Link to Demo](https://drive.google.com/file/d/1pUlaC-z9wJE8GCpSlfkP2MKJSoyO0tnB/view?usp=sharing)
