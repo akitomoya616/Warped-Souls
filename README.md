@@ -1,7 +1,7 @@
 # ooad-project-game
 Dungeon Game
 
-[Project 7](https://github.com/addzy94/ooad-project-game/blob/master/Project%207.pdf)
+[Project Intro](https://github.com/addzy94/ooad-project-game/blob/master/Project%207.pdf)
 
 [Link to Demo](https://drive.google.com/file/d/1pUlaC-z9wJE8GCpSlfkP2MKJSoyO0tnB/view?usp=sharing)
 
