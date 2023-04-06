@@ -1,5 +1,6 @@
-# ooad-project-game
-Dungeon Game
+# Dungeon Game 
+
+(Built under Object-Oriented principle)
 
 [Project Intro](https://github.com/addzy94/ooad-project-game/blob/master/Project%207.pdf)
 
